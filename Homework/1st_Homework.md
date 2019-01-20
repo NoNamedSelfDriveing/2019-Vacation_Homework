@@ -15,12 +15,12 @@
 - BUTTON 입력전압이 HIGH이면 LED 8개를 동시에 ON하고 LOW이면 OFF 하시오
 - **BUTTON Pull_Up, Pull_Down에 대해 찾아보는 것이 도움이 될 것입니다**
 
-#### 3. LED_Even_Number_&_Odd_Number_ON_OFF
+#### 3. LED Even Number & Odd Number ON OFF
 - 게시 폴더명 : LED_Even_&_Odd
 - 1초 주기로 LED를 짝수, 홀수번으로 점등하시오
 
-#### 4. Rising_&_Falling_LED_1
-- 게시 폴더명 : R_F_LED_1
+#### 4. Rising & Falling LED1
+- 게시 폴더명 : R_F_LED1
 - 아래와 같이 LED를 1초씩 변화를 주며 점등하시오
  
 |       | **PE0** | **PE1** | **PE2** | **PE3** | **PE4** | **PE5** | **PE6** | **PE7** |
@@ -45,8 +45,8 @@
 - **_delay_ms(1000);**
 - **이런 식으로 작성하지 말고 비트 연산(AND, OR, XOR) 및 시프트 연산(>>, <<)을 활용하여 LED ON/OFF하기**
 
-#### 5. Rising_&_Falling_LED_2
-- 게시 폴더명 : R_F_LED_2
+#### 5. Rising & Falling LED2
+- 게시 폴더명 : R_F_LED2
 - BUTTON 입력전압이 HIGH일때만 아래와 같은 LED시퀀스를 반복 수행하시오
 - BUTTON 입력전압이 LOW일때는 해당하는 시퀀스 출력에 멈춰있게 만드시오 
  
@@ -85,13 +85,13 @@
 -------------------------------------------------------------------
 
 ### Algorithm practice
-#### Algorithm_Practice
+#### Algorithm Practice
 - 게시 폴더명 : The_Value_Of_Jewelry
 - 각각의 가치가 다른 i가지 보석이 있다 
 - 이 보석을 적당히 사용하여 그 가치의 합이 j원이 되도록 하여라
 - 똑같은 보석을 몇 개라도 사용할 수 있다. 이때 경우의 수를 구하여라(구성은 같고 순서가 다른 것은 같은 경우이다)
 
-#### Algorithm_Practice_Example
+#### Algorithm Practice Example
 - **입력**
 - i, j
 - 보석 각각의 가치
