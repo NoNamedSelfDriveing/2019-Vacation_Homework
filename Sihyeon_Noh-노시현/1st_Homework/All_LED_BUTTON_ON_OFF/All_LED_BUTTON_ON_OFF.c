@@ -16,7 +16,7 @@ int main(void)
 	PORTA = 0x00;		//A포트에 0V출력(초기화)
 	DDRC = 0X00;		//C포트를 입력포트로 설정
 	PORTC = 0x00;		//C포트의 입력 상태를 LOW값으로 설정(초기화)
-	unsigned char btStat;
+	unsigned char btStat;//버튼의 상태를 확인하는 변수
     /* Replace with your application code */
     while (1) 
     {
