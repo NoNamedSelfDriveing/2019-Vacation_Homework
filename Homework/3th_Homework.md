@@ -30,4 +30,22 @@
 
 ### Algorithm practice
 #### Algorithm Practice
-- **2019/02/11 오후 중 공개 예정**
+
+- 게시 폴더명 : Brick_Break_Count
+
+- N*M크기의 벽돌이 있다
+- 이 벽돌을 1*1크기의 벽돌들로 쪼개기 위한 최소 쪼개기 횟수를 구하여라
+
+#### Algorithm Practice Example
+
+- **입력**
+
+- 첫째 줄에 두 정수 N,M(1≤N, M≤300)을 입력한다
+
+- 2 2
+
+  #
+
+- **출력**
+
+- 3
