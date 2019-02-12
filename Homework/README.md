@@ -10,6 +10,7 @@
 - 매주 일요일날 오후 11시에 NoNamed GitHub 2019-Vacation_Heomework 레파지토리에 과제 발표
 - Homework 폴더에 게시함
 - 그 주 금요일 24시까지 제출
+- **변동사항이 조금씩 있을 수 있음**
 
 ### 제출방법
 - NoNamed GitHub 2019-Vacation_Heomework 레파지토리에 제출
